@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b560d6c4.chunk.css",
-    "main.js": "/static/js/main.1f221ee6.chunk.js",
-    "main.js.map": "/static/js/main.1f221ee6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e7325ab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e7325ab.js.map",
-    "static/js/2.ed7d10ab.chunk.js": "/static/js/2.ed7d10ab.chunk.js",
-    "static/js/2.ed7d10ab.chunk.js.map": "/static/js/2.ed7d10ab.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b560d6c4.chunk.css.map": "/static/css/main.b560d6c4.chunk.css.map",
-    "static/js/2.ed7d10ab.chunk.js.LICENSE.txt": "/static/js/2.ed7d10ab.chunk.js.LICENSE.txt"
+    "main.css": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/css/main.b560d6c4.chunk.css",
+    "main.js": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/main.1f221ee6.chunk.js",
+    "main.js.map": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/main.1f221ee6.chunk.js.map",
+    "runtime-main.js": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/runtime-main.7a0e543f.js",
+    "runtime-main.js.map": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/runtime-main.7a0e543f.js.map",
+    "static/js/2.ed7d10ab.chunk.js": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/2.ed7d10ab.chunk.js",
+    "static/js/2.ed7d10ab.chunk.js.map": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/2.ed7d10ab.chunk.js.map",
+    "index.html": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/index.html",
+    "static/css/main.b560d6c4.chunk.css.map": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/css/main.b560d6c4.chunk.css.map",
+    "static/js/2.ed7d10ab.chunk.js.LICENSE.txt": "/thinkful-ei-tiger/zenmnky-trelloyes-checkpoint/static/js/2.ed7d10ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e7325ab.js",
+    "static/js/runtime-main.7a0e543f.js",
     "static/js/2.ed7d10ab.chunk.js",
     "static/css/main.b560d6c4.chunk.css",
     "static/js/main.1f221ee6.chunk.js"
